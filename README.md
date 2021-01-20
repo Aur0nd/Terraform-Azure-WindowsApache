@@ -2,7 +2,7 @@
 Deploy highly available Apache on Azure with Terraform (Windows)
 
 
-|-------------------------------------------------------------|
+
 This deployment was created for learning purposes and Reference
 |-------------------------------------------------------------|
 
@@ -10,7 +10,7 @@ This deployment was created for learning purposes and Reference
   - Create a new blobe (Storage account) and name it tfstateaur
   - Create a Key Vault and name it tfman
 
-|-------------------------------------------------------------|
+
 NOTE: Of course, you can name the resources however you want, just make sure you name the Variables accordingly
 |-------------------------------------------------------------|
 
